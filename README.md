@@ -838,7 +838,3 @@ If you find this project helpful, please consider giving it a star! ⭐
 - Docker support
 
 ---
-
-**Built with ❤️ for F1 fans and ML enthusiasts**
-
-🏎️ Happy Predicting! 🏎️
