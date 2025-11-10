@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Data files (too large for git)
+data/raw/*.csv
+data/processed/*.parquet
+data/features/*.parquet
+*.h5
+
+# Model files (too large for git)
+models/saved_models/*.pt
+models/checkpoints/*.pt
+
+# MLflow
+mlruns/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
