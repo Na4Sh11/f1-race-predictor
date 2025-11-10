@@ -817,7 +817,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Na4sh11/f1-race-predictor/issues)
 - **Email**: priyadharshansenguttuvan@gmail.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/priyadharshan-sengutuvan)
+- **LinkedIn**: [Priyadharshan](https://linkedin.com/in/priyadharshan-sengutuvan)
 
 ---
 
